@@ -1,4 +1,0 @@
-line 1
-hello world
-line 2
-line 3
